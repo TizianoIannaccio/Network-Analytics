@@ -13,6 +13,7 @@ You will find:
 4 - A folder named Images, in which there are all the images we used in our presentation.
 
 5 - A Python file, which contains the code we used to make the analysis.
+
     In order to make the Python code work, you'll have to create a folder named 'spreadsheets' in your Python folder. After that, you'll have to put
     each node/edge table in that folder. You can also put a new spreadsheet of your own, but keep in mind that you will have to change the dictionaries'
     names in the code, otherwise your graph will have our network's attributes.

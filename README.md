@@ -4,13 +4,13 @@ In this repository you can find every file me and my colleagues used to make our
 
 You will find:
 
-1 - A folder named Nodes, in which there are 6 nodes tables: one for each family (5) and one for the full network. Each file is in the format .xlsx. 
+1 - A branch named Nodes, in which there are 6 nodes tables: one for each family (5) and one for the full network. Each file is in the format .xlsx. 
 
-2 - A folder named Edges, in which there are 6 edges tables: one for each family (5) and one for the full network. Each file is in the format .xlsx.
+2 - A branch named Edges, in which there are 6 edges tables: one for each family (5) and one for the full network. Each file is in the format .xlsx.
 
-3 - A LateX file, which contains the code we used to generate our presentation. 
+3 - A branch named Images, in which there are all the images we used in our presentation. 
 
-4 - A folder named Images, in which there are all the images we used in our presentation.
+4 - A LateX file, which contains the code we used to generate our presentation.
 
 5 - A Python file, which contains the code we used to make the analysis.
 

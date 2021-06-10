@@ -20,7 +20,7 @@ You will find:
 
 
 
-Tiziano Iannaccio
+Tiziano Iannaccio\n
 Mihaela Nedkova Naydenova
 Gianluca Mecci
 Network Analytics 2020-2021

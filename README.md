@@ -8,7 +8,8 @@ You will find:
 
 2 - A branch named Edges, in which there are 6 edges tables: one for each family (5) and one for the full network. Each file is in the format .xlsx.
 
-3 - A branch named Images, in which there are all the images we used in our presentation. NOTE: the names may not correspond to the ones on the LateX code.
+3 - A branch named Images, in which there are all the images we used in our presentation.   
+    NOTE: the names may not correspond to the ones on the LateX code.
 
 4 - A LateX file, which contains the code we used to generate our presentation.
 
